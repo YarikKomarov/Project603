@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/YarikKomarov/Project603/ConfigRepo.git
+          uri:https://github.com/YarikKomarov/Project603/ConfigRepo.git
           default-label: feature2
           clone-on-start: true
 
